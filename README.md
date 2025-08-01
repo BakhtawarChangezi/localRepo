@@ -1,1 +1,1 @@
-# this is my local repo
+Springboot Restful Microservices project with Swagger integration 
